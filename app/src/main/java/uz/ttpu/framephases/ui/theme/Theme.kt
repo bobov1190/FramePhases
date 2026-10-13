@@ -1,4 +1,4 @@
-package com.example.framephases.ui.theme
+package uz.ttpu.framephases.ui.theme
 
 import android.app.Activity
 import android.os.Build

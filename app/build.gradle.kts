@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.framephases"
+    namespace = "uz.ttpu.framephases"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.framephases"
+        applicationId = "uz.ttpu.framephases"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

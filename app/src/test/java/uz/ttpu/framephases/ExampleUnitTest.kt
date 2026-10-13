@@ -1,4 +1,4 @@
-package com.example.framephases
+package uz.ttpu.framephases
 
 import org.junit.Test
 
